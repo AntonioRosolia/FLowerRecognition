@@ -6,7 +6,7 @@ The flower dataset contains 4242 images of flowers. The data collection is based
 This dataset can be found on https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Objectives
-The aim of this project is to classify a photo of a plant to the correct plant species. The image classification is done using Deep Learning.
+The aim of this project is to classify a photo of a plant to the correct plant species. The image classification is done using Deep Learning (Keras).
 
 Approach
 In this project Keras is used to build a convolutional neural network for image classification.
